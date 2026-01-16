@@ -41,7 +41,7 @@ const colleges = [
   }
 ];
 
-// 2️⃣ Display the data dynamically
+
 
 const collegeList = document.querySelector("#collegeList");
 
